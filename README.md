@@ -2,7 +2,7 @@
 
 Reference modules for graph algorithms and balanced search tree data structure in Python.
 
-## 📂 Implemented Algorithms & Data Structures
+## Implemented Algorithms & Data Structures
 
 ### 1. Graph Algorithms
 * **Breadth-First Search (BFS):** Unweighted shortest paths and level-order graph traversals.
