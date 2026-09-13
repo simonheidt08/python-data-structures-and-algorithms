@@ -1,6 +1,6 @@
 # Data Structures & Algorithms Practice (Python)
 
-Reference modules for graph algorithms and balanced search tree data structure in Python.
+References for graph algorithms and balanced search tree data structure in Python.
 
 ## Implemented Algorithms & Data Structures
 
